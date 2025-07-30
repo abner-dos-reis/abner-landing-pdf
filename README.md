@@ -38,7 +38,6 @@ The page is not a commercial product or SaaS app. Its **only goal is to deliver 
 ├── index.html # Main landing page
 ├── style.css # Custom styles
 ├── background.png # Background image used in the hero section
-├── cover-pdf.png # Cover image of the PDF
 ├── README.md # This file
 
 
