@@ -26,19 +26,17 @@ The page is not a commercial product or SaaS app. Its **only goal is to deliver 
 
 - HTML5
 - CSS3 (Custom + Bootstrap 5)
-- JavaScript (for redirect logic)
 - Hosted on **GitHub Pages**
 
 ---
 
 ## 📁 Project Structure
 
-📂 abner-landing-pdf
-│
-├── index.html # Main landing page
-├── style.css # Custom styles
-├── background.png # Background image used in the hero section
-├── README.md # This file
+`📂 abner-landing-pdf 
+|── index.html # Main landing page 
+|── style.css # Custom styles 
+|── background.png # Background image used in the hero section 
+|── README.md # This file`
 
 
 
